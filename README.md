@@ -1,5 +1,5 @@
 # Data Science: Foundations using R Specialization
-This repository includes all the assignments and classwork for the 5-courses Coursera specialization.
+This repository includes all the assignments and classworks for the 5-courses Coursera specialization.
 
 ## 1.  The Data Scientist's Toolbox
 Introduction to the main tools and ideas in the data scientist's toolbox. The course gives an overview of the data, questions, and tools that data analysts and data scientists work with. There are two components to this course. The first is a conceptual introduction to the ideas behind turning data into actionable knowledge. The second is a practical introduction to the tools that will be used in the program like version control, markdown, git, GitHub, R, and RStudio.
