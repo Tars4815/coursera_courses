@@ -173,3 +173,10 @@ mean(data$Ozone, na.rm=TRUE)
 #Mean of Temp when Month is equal to 6
 mean(data[which(data$Month == 6)]$Temp)
 
+# swirl Pratical exercises
+
+install.packages("swirl")
+packageVersion("swirl")
+library(swirl)
+install_from_swirl("R Programming")
+swirl()
