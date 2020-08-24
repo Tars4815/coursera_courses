@@ -6,6 +6,8 @@ Introduction to data types and objects. Tabular data readings.
 ## Week 2 - Programming with R
 The lectures cover key topics like control structures and functions.
 
+[Assignment](https://github.com/Tars4815/coursera_courses/blob/master/datascienceR/Course%202/Assignment01.R)
+
 ## Week 3 - Loop Functions and Debugging
 The lectures this week cover loop functions and the debugging tools in R. These aspects of R make R useful for both interactive work and writing longer code, and so they are commonly used in practice.
 
