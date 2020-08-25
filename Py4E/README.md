@@ -1,7 +1,7 @@
 # Python for Everybody
 5-courses Coursera specialization
 
-## Course 1 - Programming for Everybody (Getting started with Python)
+## [Course 1 - Programming for Everybody (Getting started with Python)](https://github.com/Tars4815/coursera_courses/tree/master/Py4E/Course%201)
 Introduction course. [Reference](https://www.coursera.org/learn/python/home/welcome)
 
 *Completed on June 30, 2020*
